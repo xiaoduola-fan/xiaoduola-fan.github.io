@@ -458,7 +458,7 @@ body {
   background-color: #e2e0de;
   background-image: url("/images/bg.png");
   background-repeat: no-repeat;
-  
+  overflow: hidden;
   background-attachment: fixed;
   -webkit-background-attachment: fixed;
   background-position: 50% 50%;
