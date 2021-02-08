@@ -459,6 +459,7 @@ body {
   background-image: url("/images/bg.png");
   background-repeat: no-repeat;
   overflow: hidden;
+  top:10%;
   background-attachment: fixed;
   -webkit-background-attachment: fixed;
   background-position: 50% 50%;
