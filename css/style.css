@@ -461,7 +461,8 @@ body {
   background-attachment: fixed;
   -webkit-background-attachment: fixed;
   background-position: 50% 50%;
-  background-size: cover；
+
+  object-fit: cover;
   color: #363533;
   font-display: swap;
   font-weight: 400;
