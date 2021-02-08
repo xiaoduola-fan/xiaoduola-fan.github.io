@@ -461,6 +461,7 @@ body {
   background-size: 100% 100%;
   background-attachment: fixed;
   background-position: 50% 50%;
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/bg.png',sizingMethod='scale')
   color: #363533;
   font-display: swap;
   font-weight: 400;
